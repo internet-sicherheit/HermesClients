@@ -1,0 +1,8 @@
+{
+    "username": "Superuser",
+    "password": "Superadmin",
+    "samples": [
+        {"path": "/home/kiview/Downloads/putty.exe", "name": "baz", "description": "foobar"},
+        {"path": "/home/kiview/Downloads/puttytel.exe", "name": "bazi", "description": "buzzi"}
+    ]
+}
